@@ -1,0 +1,16 @@
+racecar project implemented using JS on a webbrowser
+to run the game just open index.html in your browser
+
+fun fact: this game was made in ONLY 1HOUR
+
+basically u need to avoid the incomming traffic
+the game is a bit laggy since there is no memory management availble 
+for this type of developpemnt 
+collision detection wasnt implement and obstacles variety could be added
+with sounds and more factors to make the game challenging 
+but remember it was made in 1HOUR
+
+sooo the way it works is pretty easy
+its a game loop which spawn a car each defined ammount of time
+i wouldve coded this in SDL and used a custom 3D engine and sound mixer
+but no time
