@@ -7,7 +7,8 @@ fun fact: this game was made in ONLY 1HOUR
 
 basically u need to avoid the incomming traffic & stay on the road
 the game is a bit laggy since there is no memory management availble 
-for this type of developpemnt 
+for this type of developpemnt soo its impossible to focus on graphics
+maybe WebAssembly or typescript would do the work
 
 collision detection wasnt implemented and obstacles variety could be added
 with sounds and more factors to make the game mrore challenging 
