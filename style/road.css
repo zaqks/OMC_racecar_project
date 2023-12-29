@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow: hidden;
+}
+
+#score {
+    font-size: 25px;
+    font-weight: 500;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+
+}
+
+
+#road {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    /*background-color: red;*/
+    margin: 0 30% 0 30%;
+
+    display: flex;
+}
+
+#road .track {
+    width: 100%;
+    height: 100%;
+
+    border-right: 0.75px solid yellow;
+    border-left: 0.75px solid yellow;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+
+    background-image: url(assets/road.jpeg);
+    background-repeat: repeat;
+}

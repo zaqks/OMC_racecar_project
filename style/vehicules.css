@@ -1,0 +1,18 @@
+.car {
+    position: relative;
+    /*background-color: yellow;*/
+}
+
+.car#player {
+    /*background-color: red;*/
+    background-image: url(assets/car2.png);
+    background-size: contain;
+    background-position: center;
+}
+
+.car.obstacle {
+    /*background-color: blue;*/
+    background-image: url(assets/car1.png);
+    background-size: contain;
+    background-position: center;
+}
